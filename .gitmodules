@@ -52,3 +52,9 @@
 [submodule "pack/colors/start/papercolor-theme"]
 	path = pack/colors/start/papercolor-theme
 	url = https://github.com/NLKNguyen/papercolor-theme
+[submodule "pack/syntax/opt/asyncomplete-lsp"]
+	path = pack/syntax/opt/asyncomplete-lsp
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim
+[submodule "pack/syntax/opt/asyncomplete"]
+	path = pack/syntax/opt/asyncomplete
+	url = https://github.com/prabirshrestha/asyncomplete.vim
