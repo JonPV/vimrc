@@ -1,0 +1,54 @@
+[submodule "pack/syntax/start/echodoc.vim"]
+	path = pack/syntax/start/echodoc.vim
+	url = https://github.com/Shougo/echodoc.vim
+[submodule "pack/syntax/start/editorconfig-vim"]
+	path = pack/syntax/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/syntax/start/pear-tree"]
+	path = pack/syntax/start/pear-tree
+	url = https://github.com/tmsvg/pear-tree
+[submodule "pack/plugins/start/undotree"]
+	path = pack/plugins/start/undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "pack/syntax/start/supertab"]
+	path = pack/syntax/start/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "pack/syntax/start/vim-closetag"]
+	path = pack/syntax/start/vim-closetag
+	url = https://github.com/alvan/vim-closetag
+[submodule "pack/plugins/start/vim-fugitive"]
+	path = pack/plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/plugins/start/vim-gitgutter"]
+	path = pack/plugins/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/syntax/start/vim-indent-object"]
+	path = pack/syntax/start/vim-indent-object
+	url = https://github.com/michaeljsmith/vim-indent-object
+[submodule "pack/syntax/start/vim-polyglot"]
+	path = pack/syntax/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "pack/plugins/start/vimwiki"]
+	path = pack/plugins/start/vimwiki
+	url = https://github.com/vimwiki/vimwiki
+[submodule "pack/syntax/start/vim-surround"]
+	path = pack/syntax/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/colors/start/vim-airline"]
+	path = pack/colors/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/colors/start/vim-airline-themes"]
+	path = pack/colors/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "pack/syntax/start/asyncomplete-lsp"]
+	path = pack/syntax/opt/asyncomplete-lsp
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim
+[submodule "pack/syntax/start/asyncomplete"]
+	path = pack/syntax/opt/asyncomplete
+	url = https://github.com/prabirshrestha/asyncomplete.vim
+[submodule "pack/colors/start/papercolor-theme"]
+	path = pack/colors/start/papercolor-theme
+	url = https://github.com/NLKNguyen/papercolor-theme
