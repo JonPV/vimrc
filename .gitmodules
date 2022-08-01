@@ -44,10 +44,10 @@
 	path = pack/colors/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
 [submodule "pack/syntax/start/asyncomplete-lsp"]
-	path = pack/syntax/opt/asyncomplete-lsp
+	path = pack/syntax/start/asyncomplete-lsp
 	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim
 [submodule "pack/syntax/start/asyncomplete"]
-	path = pack/syntax/opt/asyncomplete
+	path = pack/syntax/start/asyncomplete
 	url = https://github.com/prabirshrestha/asyncomplete.vim
 [submodule "pack/colors/start/papercolor-theme"]
 	path = pack/colors/start/papercolor-theme
