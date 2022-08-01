@@ -43,15 +43,9 @@
 [submodule "pack/colors/start/vim-airline-themes"]
 	path = pack/colors/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
-[submodule "pack/syntax/start/vim-lsp"]
-	path = pack/syntax/start/vim-lsp
-	url = https://github.com/prabirshrestha/vim-lsp
-[submodule "pack/syntax/start/asyncomplete-lsp"]
-	path = pack/syntax/start/asyncomplete-lsp
-	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim
-[submodule "pack/syntax/start/asyncomplete"]
-	path = pack/syntax/start/asyncomplete
-	url = https://github.com/prabirshrestha/asyncomplete.vim
 [submodule "pack/colors/start/papercolor-theme"]
 	path = pack/colors/start/papercolor-theme
 	url = https://github.com/NLKNguyen/papercolor-theme
+[submodule "pack/syntax/start/coc.nvim"]
+  path = pack/syntax/start/coc.nvim
+  url = https://github.com/neoclide/coc.nvim

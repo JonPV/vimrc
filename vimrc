@@ -10,9 +10,6 @@ set number              " show line numbers
 set relativenumber      " show numbers as relative by default
 set showmatch           " higlight matching parentheses and brackets
 
-packadd asyncomplete
-packadd asyncomplete-lsp
-
 "Enable filetype
 filetype indent plugin on
 
